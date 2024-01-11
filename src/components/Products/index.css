@@ -1,0 +1,22 @@
+.button {
+    width: 85px;
+    height: 55px;
+    background-color: yellow;
+    color: black;
+    border: 0px;
+    border-radius: 8px;
+}
+
+.image {
+    height: 250px;
+    width: 300px;
+}
+
+.product {
+    padding-bottom: 30px;
+    margin-right: 50px;
+}
+.product-list {
+    display: flex;
+    flex-direction: row;
+}
